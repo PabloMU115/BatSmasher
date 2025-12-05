@@ -4,5 +4,4 @@ This is a little game i developed during my time as a nearlinx intern, the objec
 <img width="1271" height="742" alt="image" src="https://github.com/user-attachments/assets/f5a663e5-0fb3-4295-a22a-2193aab81e1e" />
 <img width="1271" height="742" alt="image" src="https://github.com/user-attachments/assets/fca201fd-616e-405f-ab57-97cf97eebf22" />
 <img width="1274" height="743" alt="image" src="https://github.com/user-attachments/assets/7c6b1111-7eed-4d09-b23e-27bf76e74fd0" />
-<img width="1274" height="743" alt="image" src="https://github.com/user-attachments/assets/b000dcf3-d310-44ec-85a3-764ca87e34a7" />
 <img width="1273" height="742" alt="image" src="https://github.com/user-attachments/assets/2eaa018e-13d5-46f0-8d7a-8d217d51bd4f" />
