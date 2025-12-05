@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>images/minish_atlas</Texture>
+	<Regions>
+		<Region name="bat-1" x="344" y="1" width="39" height="39" />
+		<Region name="bat-2" x="394" y="1" width="39" height="39" />
+		<Region name="bat-3" x="444" y="1" width="39" height="39" />
+		<Region name="bat-4" x="494" y="1" width="39" height="39" />
+
+		<Region name="full-heart" x="275" y="0" width="20" height="20" />
+		<Region name="empty-heart" x="298" y="0" width="20" height="20" />
+
+		<Region name="link-iddle-down" x="14" y="14" width="27" height="27" />
+		<Region name="link-down-1" x="46" y="94" width="27" height="27" />
+		<Region name="link-down-2" x="78" y="94" width="27" height="27" />
+		<Region name="link-down-3" x="110" y="94" width="27" height="27" />
+		<Region name="link-down-4" x="142" y="94" width="27" height="27" />
+		<Region name="link-down-5" x="174" y="94" width="27" height="27" />
+		<Region name="link-down-6" x="206" y="94" width="27" height="27" />
+		<Region name="link-down-7" x="238" y="94" width="27" height="27" />
+		<Region name="link-down-8" x="270" y="94" width="27" height="27" />
+		<Region name="link-down-9" x="302" y="94" width="27" height="27" />
+
+		<Region name="link-iddle-up" x="695" y="93" width="27" height="27" />
+		<Region name="link-up-1" x="727" y="93" width="27" height="27" />
+		<Region name="link-up-2" x="759" y="93" width="27" height="27" />
+		<Region name="link-up-3" x="791" y="93" width="27" height="27" />
+		<Region name="link-up-4" x="823" y="93" width="27" height="27" />
+		<Region name="link-up-5" x="855" y="93" width="27" height="27" />
+		<Region name="link-up-6" x="887" y="93" width="27" height="27" />
+		<Region name="link-up-7" x="919" y="93" width="27" height="27" />
+		<Region name="link-up-8" x="951" y="93" width="27" height="27" />
+		<Region name="link-up-9" x="983" y="93" width="27" height="27" />
+
+		<Region name="link-iddle-left" x="352" y="93" width="27" height="27" />
+		<Region name="link-left-1" x="386" y="93" width="27" height="27" />
+		<Region name="link-left-2" x="417" y="93" width="27" height="27" />
+		<Region name="link-left-3" x="451" y="93" width="27" height="27" />
+		<Region name="link-left-4" x="482" y="93" width="27" height="27" />
+		<Region name="link-left-5" x="512" y="93" width="27" height="27" />
+		<Region name="link-left-6" x="545" y="93" width="27" height="27" />
+		<Region name="link-left-7" x="579" y="93" width="27" height="27" />
+		<Region name="link-left-8" x="610" y="93" width="27" height="27" />
+		<Region name="link-left-9" x="642" y="93" width="27" height="27" />
+
+		<Region name="link-iddle-right" x="350" y="64" width="27" height="27" />
+		<Region name="link-right-1" x="383" y="64" width="27" height="27" />
+		<Region name="link-right-2" x="413" y="64" width="27" height="27" />
+		<Region name="link-right-3" x="451" y="64" width="27" height="27" />
+		<Region name="link-right-4" x="482" y="64" width="27" height="27" />
+		<Region name="link-right-5" x="513" y="64" width="27" height="27" />
+		<Region name="link-right-6" x="544" y="64" width="27" height="27" />
+		<Region name="link-right-7" x="578" y="64" width="27" height="27" />
+		<Region name="link-right-8" x="609" y="64" width="27" height="27" />
+		<Region name="link-right-9" x="643" y="64" width="27" height="27" />
+
+		<Region name="heart-spin-1" x="350" y="45" width="15" height="15" />
+		<Region name="heart-spin-2" x="367" y="45" width="15" height="15" />
+		<Region name="heart-spin-3" x="384" y="45" width="15" height="15" />
+		<Region name="heart-spin-4" x="399" y="44" width="15" height="15" />
+		<Region name="heart-spin-5" x="414" y="44" width="15" height="15" />
+		<Region name="heart-spin-6" x="431" y="44" width="15" height="15" />
+		<Region name="heart-spin-7" x="448" y="45" width="15" height="15" />
+		<Region name="heart-spin-8" x="463" y="45" width="15" height="15" />
+
+		<Region name="empty" x="60" y="0" width="0" height="0" />
+
+		<Region name="link-death-1" x="14" y="165" width="29" height="29" />
+		<Region name="link-death-2" x="47" y="162" width="29" height="29" />
+		<Region name="link-death-3" x="76" y="165" width="29" height="29" />
+		<Region name="link-death-4" x="104" y="160" width="29" height="29" />
+		<Region name="link-death-5" x="137" y="160" width="29" height="29" />
+
+		<Region name="link-down-roll-1" x="13" y="130" width="29" height="29" />
+		<Region name="link-down-roll-2" x="45" y="128" width="29" height="29" />
+		<Region name="link-down-roll-3" x="77" y="128" width="29" height="29" />
+		<Region name="link-down-roll-4" x="109" y="128" width="29" height="29" />
+		<Region name="link-down-roll-5" x="141" y="128" width="29" height="29" />
+		<Region name="link-down-roll-6" x="173" y="128" width="29" height="29" />
+		<Region name="link-down-roll-7" x="206" y="130" width="29" height="29" />
+		<Region name="link-down-roll-8" x="240" y="130" width="29" height="29" />
+		<Region name="link-down-roll-9" x="269" y="130" width="29" height="29" />
+
+		<Region name="link-left-roll-1" x="352" y="130" width="29" height="29" />
+		<Region name="link-left-roll-2" x="386" y="128" width="29" height="29" />
+		<Region name="link-left-roll-3" x="417" y="128" width="29" height="29" />
+		<Region name="link-left-roll-4" x="451" y="128" width="29" height="29" />
+		<Region name="link-left-roll-5" x="479" y="128" width="29" height="29" />
+		<Region name="link-left-roll-6" x="513" y="128" width="29" height="29" />
+		<Region name="link-left-roll-7" x="545" y="130" width="29" height="29" />
+		<Region name="link-left-roll-8" x="579" y="130" width="29" height="29" />
+		<Region name="link-left-roll-9" x="610" y="130" width="29" height="29" />
+
+		<Region name="link-right-roll-1" x="352" y="163" width="27" height="27" />
+		<Region name="link-right-roll-2" x="380" y="161" width="27" height="27" />
+		<Region name="link-right-roll-3" x="417" y="161" width="27" height="27" />
+		<Region name="link-right-roll-4" x="445" y="161" width="27" height="27" />
+		<Region name="link-right-roll-5" x="475" y="161" width="27" height="27" />
+		<Region name="link-right-roll-6" x="510" y="156" width="27" height="27" />
+		<Region name="link-right-roll-7" x="540" y="158" width="27" height="27" />
+		<Region name="link-right-roll-8" x="573" y="163" width="27" height="27" />
+		<Region name="link-right-roll-9" x="607" y="163" width="27" height="27" />
+
+		<Region name="link-up-roll-1" x="695" y="130" width="29" height="29" />
+		<Region name="link-up-roll-2" x="724" y="128" width="29" height="29" />
+		<Region name="link-up-roll-3" x="759" y="128" width="29" height="29" />
+		<Region name="link-up-roll-4" x="791" y="128" width="29" height="29" />
+		<Region name="link-up-roll-5" x="823" y="128" width="29" height="29" />
+		<Region name="link-up-roll-6" x="855" y="128" width="29" height="29" />
+		<Region name="link-up-roll-7" x="887" y="130" width="29" height="29" />
+		<Region name="link-up-roll-8" x="919" y="130" width="29" height="29" />
+		<Region name="link-up-roll-9" x="951" y="130" width="29" height="29" />
+
+		<Region name="sword-flow-1" x="514" y="43" width="16" height="16" />
+
+		<Region name="link-power-up-1" x="173" y="166" width="27" height="27" />
+		<Region name="link-power-up-2" x="205" y="166" width="27" height="27" />
+		<Region name="link-power-up-3" x="237" y="166" width="27" height="27" />
+
+		<Region name="sword-power-up-1" x="274" y="27" width="20" height="20" />
+		<Region name="sword-power-up-2" x="302" y="22" width="20" height="20" />
+
+		<Region name="shadow" x="542" y="35" width="30" height="30" />
+
+	</Regions>
+	<Animations>
+		<Animation name="sword-power-up-shadow" delay="0">
+			<Frame region="shadow" />
+		</Animation>
+
+		<Animation name="sword-power-up-animation" delay="100">
+			<Frame region="empty" />
+			<Frame region="sword-power-up-1" />
+			<Frame region="sword-power-up-2" />
+		</Animation>
+
+		<Animation name="sword-power-up-animation-still" delay="0">
+			<Frame region="sword-power-up-2" />
+		</Animation>
+
+		<Animation name="link-power-up-animation-still" delay="0">
+			<Frame region="link-power-up-3" />
+		</Animation>
+		
+		<Animation name="link-power-up-animation" delay="100">
+			<Frame region="link-power-up-1" />
+			<Frame region="link-power-up-2" />
+			<Frame region="link-power-up-3" />
+		</Animation>
+
+		<Animation name="sword-flow-animation" delay="50">
+			<Frame region="sword-flow-1" />
+		</Animation>
+
+		<Animation name="link-animation-up-roll" delay="50">
+			<Frame region="link-up-roll-1" />
+			<Frame region="link-up-roll-2" />
+			<Frame region="link-up-roll-3" />
+			<Frame region="link-up-roll-4" />
+			<Frame region="link-up-roll-5" />
+			<Frame region="link-up-roll-6" />
+			<Frame region="link-up-roll-7" />
+			<Frame region="link-up-roll-8" />
+			<Frame region="link-up-roll-9" />
+		</Animation>
+
+		<Animation name="link-animation-right-roll" delay="50">
+			<Frame region="link-right-roll-1" />
+			<Frame region="link-right-roll-2" />
+			<Frame region="link-right-roll-3" />
+			<Frame region="link-right-roll-4" />
+			<Frame region="link-right-roll-5" />
+			<Frame region="link-right-roll-6" />
+			<Frame region="link-right-roll-7" />
+			<Frame region="link-right-roll-8" />
+			<Frame region="link-right-roll-9" />
+		</Animation>
+		
+		<Animation name="link-animation-left-roll" delay="50">
+			<Frame region="link-left-roll-1" />
+			<Frame region="link-left-roll-2" />
+			<Frame region="link-left-roll-3" />
+			<Frame region="link-left-roll-4" />
+			<Frame region="link-left-roll-5" />
+			<Frame region="link-left-roll-6" />
+			<Frame region="link-left-roll-7" />
+			<Frame region="link-left-roll-8" />
+			<Frame region="link-left-roll-9" />
+		</Animation>
+
+		<Animation name="link-animation-down-roll" delay="50">
+			<Frame region="link-down-roll-1" />
+			<Frame region="link-down-roll-2" />
+			<Frame region="link-down-roll-3" />
+			<Frame region="link-down-roll-4" />
+			<Frame region="link-down-roll-5" />
+			<Frame region="link-down-roll-6" />
+			<Frame region="link-down-roll-7" />
+			<Frame region="link-down-roll-8" />
+			<Frame region="link-down-roll-9" />
+		</Animation>
+
+		<Animation name="link-death-animation" delay="120">
+			<Frame region="link-death-1" />
+			<Frame region="link-death-2" />
+			<Frame region="link-death-3" />
+			<Frame region="link-death-4" />
+			<Frame region="link-death-5" />
+		</Animation>
+
+		<Animation name="link-death-animation-iddle" delay="0">
+			<Frame region="link-death-5" />
+		</Animation>
+		
+		<Animation name="bat-animation" delay="50">
+			<Frame region="bat-1" />
+			<Frame region="bat-2" />
+			<Frame region="bat-3" />
+			<Frame region="bat-4" />
+			<Frame region="bat-3" />
+			<Frame region="bat-2" />
+			<Frame region="bat-1" />
+		</Animation>
+		
+		<Animation name="link-animation-down" delay="60">
+			<Frame region="link-iddle-down" />
+			<Frame region="link-down-1" />
+			<Frame region="link-down-2" />
+			<Frame region="link-down-3" />
+			<Frame region="link-down-4" />
+			<Frame region="link-down-5" />
+			<Frame region="link-down-6" />
+			<Frame region="link-down-7" />
+			<Frame region="link-down-8" />
+			<Frame region="link-down-9" />
+		</Animation>
+		
+		<Animation name="link-animation-up" delay="60">
+			<Frame region="link-iddle-up" />
+			<Frame region="link-up-1" />
+			<Frame region="link-up-2" />
+			<Frame region="link-up-3" />
+			<Frame region="link-up-4" />
+			<Frame region="link-up-5" />
+			<Frame region="link-up-6" />
+			<Frame region="link-up-7" />
+			<Frame region="link-up-8" />
+			<Frame region="link-up-9" />
+		</Animation>
+		
+		<Animation name="link-animation-left" delay="60">
+			<Frame region="link-iddle-left" />
+			<Frame region="link-left-1" />
+			<Frame region="link-left-2" />
+			<Frame region="link-left-3" />
+			<Frame region="link-left-4" />
+			<Frame region="link-left-5" />
+			<Frame region="link-left-6" />
+			<Frame region="link-left-7" />
+			<Frame region="link-left-8" />
+			<Frame region="link-left-9" />
+		</Animation>
+
+		<Animation name="link-animation-right" delay="60">
+			<Frame region="link-iddle-right" />
+			<Frame region="link-right-1" />
+			<Frame region="link-right-2" />
+			<Frame region="link-right-3" />
+			<Frame region="link-right-4" />
+			<Frame region="link-right-5" />
+			<Frame region="link-right-6" />
+			<Frame region="link-right-7" />
+			<Frame region="link-right-8" />
+			<Frame region="link-right-9" />
+		</Animation>
+
+		<Animation name="heart-spinning-animation" delay="120">
+			<Frame region="heart-spin-1" />
+			<Frame region="heart-spin-2" />
+			<Frame region="heart-spin-3" />
+			<Frame region="heart-spin-4" />
+			<Frame region="heart-spin-5" />
+			<Frame region="heart-spin-6" />
+			<Frame region="heart-spin-7" />
+			<Frame region="heart-spin-8" />
+		</Animation>
+		
+		<Animation name="link-animation-iddle-down" delay="0">
+			<Frame region="link-iddle-down" />
+		</Animation>
+		
+		<Animation name="link-animation-iddle-up" delay="0">
+			<Frame region="link-iddle-up" />
+		</Animation>
+		
+		<Animation name="link-animation-iddle-left" delay="0">
+			<Frame region="link-iddle-left" />
+		</Animation>
+
+		<Animation name="link-animation-iddle-right" delay="0">
+			<Frame region="link-iddle-right" />
+		</Animation>
+
+		<Animation name="full-heart-container" delay="0">
+			<Frame region="full-heart" />
+		</Animation>
+
+		<Animation name="empty-heart-container" delay="0">
+			<Frame region="empty-heart" />
+		</Animation>
+
+		<Animation name="empty-sprite" delay="0">
+			<Frame region="empty" />
+		</Animation>
+	</Animations>
+</TextureAtlas>

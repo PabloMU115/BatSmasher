@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>images/mmx1_effects</Texture>
+	<Regions>
+		<Region name="bat-death-1" x="7" y="3" width="32" height="32" />
+		<Region name="bat-death-2" x="44" y="3" width="32" height="32" />
+		<Region name="bat-death-3" x="88" y="3" width="32" height="32" />
+		<Region name="bat-death-4" x="131" y="3" width="32" height="32" />
+		<Region name="bat-death-5" x="171" y="3" width="32" height="32" />
+		<Region name="bat-death-6" x="219" y="3" width="32" height="32" />
+	</Regions>
+	<Animations>
+		<Animation name="bat-death-animation" delay="100">
+			<Frame region="bat-death-1" />
+			<Frame region="bat-death-2" />
+			<Frame region="bat-death-3" />
+			<Frame region="bat-death-4" />
+			<Frame region="bat-death-5" />
+			<Frame region="bat-death-6" />
+		</Animation>
+	</Animations>
+</TextureAtlas>

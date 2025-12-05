@@ -1,0 +1,203 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin audio/Glaceir.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:audio/Glaceir.mp3
+
+#begin audio/KING OF ROLYPOLY.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:audio/KING OF ROLYPOLY.mp3
+
+#begin audio/MC_Link_Die_Tune.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Die_Tune.wav
+
+#begin audio/MC_Link_Fall.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Fall.wav
+
+#begin audio/MC_Link_Hurt.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Hurt.wav
+
+#begin audio/MC_Link_Magic_Sword.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Magic_Sword.wav
+
+#begin audio/MC_Link_Roll.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Roll.wav
+
+#begin audio/MC_Link_Step.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Step.wav
+
+#begin audio/MC_Link_Sword.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Sword.wav
+
+#begin audio/MC_Link_Sword1.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Sword1.wav
+
+#begin audio/MC_Link_Sword2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MC_Link_Sword2.wav
+
+#begin audio/MMX - Enemy Die.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MMX - Enemy Die.wav
+
+#begin audio/MMX - Stage Cursor Move.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MMX - Stage Cursor Move.wav
+
+#begin audio/MMX - X Die.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MMX - X Die.wav
+
+#begin audio/MMX - X Extra Life.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/MMX - X Extra Life.wav
+
+#begin audio/TP_PressStart.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/TP_PressStart.wav
+
+#begin fonts/04B_30_5X.spritefont
+/importer:FontDescriptionImporter
+/processor:LocalizedFontProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:fonts/04B_30_5X.spritefont
+
+#begin fonts/04b_30.fnt
+/copy:fonts/04b_30.fnt
+
+#begin fonts/04B_30.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:fonts/04B_30.spritefont
+
+#begin images/atlas-definition-2.xml
+/copy:images/atlas-definition-2.xml
+
+#begin images/atlas-definition.xml
+/copy:images/atlas-definition.xml
+
+#begin images/atlas.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/atlas.png
+
+#begin images/Effect-definition.xml
+/copy:images/Effect-definition.xml
+
+#begin images/minish_atlas.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/minish_atlas.png
+
+#begin images/mmx1_effects.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/mmx1_effects.png
+
+#begin images/slash_atlas.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/slash_atlas.png
+
+#begin images/slash-definition.xml
+/copy:images/slash-definition.xml
+
+#begin images/tilemap-definition.xml
+/copy:images/tilemap-definition.xml
+
+#begin images/zm_prototype_bad.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:images/zm_prototype_bad.jpg
+
